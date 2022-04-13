@@ -23,8 +23,7 @@ Início da Iteração | Término da iteração
 | Construção do repositório, kanban e documentação dos processos | `@todos` |
 
 ### O que não foi feito
-* Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!
-> **Nota:** Levante o que não foi realizado e o seu respectivo impedimento.
+* Tudo certo! rsrs
 
 ### Planejado para próxima iteração
 * Versão beta da primeira fase do jogo 
