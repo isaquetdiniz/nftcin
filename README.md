@@ -24,7 +24,7 @@
 ## 👨🏻‍💻 Sobre o projeto
 
 <h3>
-  Minhas Escolhas
+  Escolhas
 </h3>
 
 <p>
@@ -123,4 +123,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜 by Isaque Diniz 👋 [See my linkedin](https://www.linkedin.com/in/isaquetdiniz/)
+Made with 💜 by Isaque Diniz (itd)👋 [See my linkedin](https://www.linkedin.com/in/isaquetdiniz/)
+Made with 💜 by Pedro Manoel (pmdbma) 👋 [See my linkedin](https://www.linkedin.com/in/isaquetdiniz/)
+Made with 💜 by Sofia Diniz (sdms) 👋 [See my linkedin](https://www.linkedin.com/in/isaquetdiniz/)
+Made with 💜 by Vitória Pinheiro (vps3) 👋 [See my linkedin](https://www.linkedin.com/in/isaquetdiniz/)
