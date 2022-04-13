@@ -13,6 +13,10 @@ Início da Iteração | Término da iteração
 | Análise dos dados | `@todos` |
 | Levantamento da hipótese | `@todos` |
 | Construção do repositório, kanban e documentação dos processos | `@todos` |
+| Atas de reuniões | `@todos` |
+| Value proposition canvas | `@todos` |
+| Business model canvas | `@todos` |
+| Project model canvas | `@todos` |
 
 ### O que foi feito
 | Atividade | Atribuição |
@@ -21,6 +25,10 @@ Início da Iteração | Término da iteração
 | Análise dos dados | `@todos` |
 | Levantamento da hipótese | `@todos` |
 | Construção do repositório, kanban e documentação dos processos | `@todos` |
+| Atas de reuniões | `@todos` |
+| Value proposition canvas | `@todos` |
+| Business model canvas | `@todos` |
+| Project model canvas | `@todos` |
 
 ### O que não foi feito
 * Tudo certo! rsrs
