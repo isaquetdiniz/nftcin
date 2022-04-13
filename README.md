@@ -9,13 +9,6 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/isaquetdiniz/nftcin">
 
-  <a href="https://www.linkedin.com/in/lucasleonardobs/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Isque%20Diniz-gree">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Isque%20Diniz-gree">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Isque%20Diniz-gree">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Isque%20Diniz-gree">
-  </a>
-
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/isaquetdiniz/nftcin">
 
   <img alt="GitHub" src="https://img.shields.io/github/license/isaquetdiniz/nftcin">
