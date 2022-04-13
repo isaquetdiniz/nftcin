@@ -36,6 +36,12 @@
 </p>
 
 <h3>
+  Canvas de proposta de valor
+</h3>
+
+<img src="https://github.com/isaquetdiniz/nftcin/blob/main/value-proposition-canvas.png">
+
+<h3>
   O resultado
 </h3>
 
