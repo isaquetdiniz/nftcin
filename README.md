@@ -59,22 +59,16 @@
 
 Tecnologias que utilizei para construir essa aplicação
 
-- [Node.js](https://nodejs.org/en/)
-- [Next.js](https://nextjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Apollo](https://www.apollographql.com/)
-- [TypeORM](https://typeorm.io/#/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [ElephantSQL](https://www.elephantsql.com/)
-- [Jest](https://jestjs.io/)
+- [Tecnologia 1](https://nodejs.org/en/)
+- [Tecnologia 2](https://nextjs.org/)
 
 
 ## 💻 Tutorial de Instalação
 
 ### Requisitos
 
-- [Node.js](https://nodejs.org/en/)
-- [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
+- [Requisito 1](https://nodejs.org/en/)
+- [Requisito 2](https://classic.yarnpkg.com/)
 
 
 **Clone o projeto e acesse a pasta**
